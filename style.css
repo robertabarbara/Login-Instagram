@@ -1,0 +1,253 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body{
+  background-color: rgb(230, 224, 229);
+}
+
+.img_smart{
+  position: absolute;
+  top: 80px;
+  left: 350px;
+}
+
+.box_one{
+  position:absolute;
+  height: 689px;
+  border-radius: 1.5rem;
+  width: 34.0rem;
+  left: 1200px;
+  top: 10rem;
+  border: 1px solid #bbb;
+  background: #fff;
+  padding-bottom: 25rem  
+}
+
+.box_two{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 70px;
+  margin-top: 10px;
+}
+
+.usuario_login{
+  position: relative;
+  border-radius: 4px;
+  top: 25px ;
+  border: 1px solid #bbb;
+  width: 60%;
+  margin-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.password{
+  position: relative;
+  border-radius: 4px;
+  top: 65px;
+  border: 1px solid #bbb;
+  width: 60%;
+  float: left;
+  margin-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+} 
+
+.button{
+  position: relative;
+  border: none;
+  border-radius: 4px;
+  width: 48%;
+  height: 3.0rem;
+  top: 120px;
+  left: 12px;
+  cursor: pointer;
+  background-color: rgb(51, 155, 252);
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.ou{
+  position: relative;
+  top: 165px;
+  color: #888;
+  font-weight: 400;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.facebook{
+  position: relative;
+  top: 200px;
+  left: 20px;
+  color: rgb(45, 45, 151);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.foto_face{
+  position: relative;
+  max-width: 30px;
+  top: 175px;
+  right: 90px;
+}
+
+.rec_password{
+  position: relative;
+  top: 230px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(97, 95, 95);
+}
+
+.cadastro{
+  position: relative;
+  top: 300px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.app{
+  position: relative;
+  top: 800px;
+  left: 1400px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.appstore{
+  position: relative;
+  max-width: 250px;
+  top: 920px;
+  left: 1080px;
+}
+
+.googlestore{
+  position: relative;
+  max-width: 250px;
+  top: 920px;
+  left: 1080px;
+}
+
+.rodape{
+  position: relative;
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.meta{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sobre{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.blog{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ajuda{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.api{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.priv{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.termos{  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contas{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hash{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.local{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.insta{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.danca{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.comida_bebida{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.casa_jardim{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.musica{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.artes{
+  text-align: center;
+  color: #888;
+  top: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
